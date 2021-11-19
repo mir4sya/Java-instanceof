@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=SchoolTeacher
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ SchoolTeacher\ here.\r\n\r\n\ (Nuramirah\ Hasya\ binti\ Mohd\ Nizam,\ 2020840206)\r\n\ (CS2535C)\r\n
+comment1.params=name\ icNo\ YOS\ g
+comment1.target=SchoolTeacher(java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getGrade()
+comment3.params=grade
+comment3.target=void\ setGrade(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=double\ calculateSalary()
+numComments=6

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Teacher
+comment0.text=\r\n\ Abstract\ class\ Teacher\ -\ write\ a\ description\ of\ the\ class\ here\r\n\r\n\ (Nuramirah\ Hasya\ binti\ Mohd\ Nizam,\ 2020840206)\r\n\ (CS2535C)\r\n
+comment1.params=
+comment1.target=double\ calculateSalary()
+comment2.params=n\ io\ y
+comment2.target=Teacher(java.lang.String,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.lang.String\ getIcNo()
+comment5.params=
+comment5.target=int\ getYOS()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

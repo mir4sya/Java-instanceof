@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=KindergartenTeacher
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ KindergartenTeacher\ here.\r\n\r\n\ (Nuramirah\ Hasya\ binti\ Mohd\ Nizam,\ 2020840206)\r\n\ (CS2535C)\r\n
+comment1.params=name\ icNo\ YOS\ oh
+comment1.target=KindergartenTeacher(java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=int\ getOTHours()
+comment3.params=OTHours
+comment3.target=void\ setOTHours(int)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=double\ calculateSalary()
+numComments=6
